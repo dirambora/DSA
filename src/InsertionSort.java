@@ -48,11 +48,7 @@ public class InsertionSort {
         obj.sort(arr);
 
         printArray(arr);
-
-
-
     }
-
 
     //Initialization
 
